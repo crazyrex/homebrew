@@ -1,5 +1,5 @@
-Homebrew
-========
+Homebrew - The Missing Package Manager for OS X
+===============================================
 Features and usage are [summarized on the homepage][homepage].
 
 
